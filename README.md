@@ -1,5 +1,6 @@
 ## Features
-
+* Built with Vue and Vuex
+* Support for desktop and mobile
 ## Gameplay
 
 #### Positioning Phase
