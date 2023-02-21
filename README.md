@@ -13,7 +13,7 @@ The game is played on an 8x8 board with each player having 4 ships to position a
 Once a ship has been placed in a valid location on the game board, it's position will be highlighted and other ships will be unable to occupy those same tiles. Clicking on the green 'ROTATE' button at the bottom of the screen will toggle the orientation of the ship about to be placed. Continue placing ships until the entire fleet is positioned on the board.
  
 #### Attack Phase
-The first attack goes to player 1. Choose a tile on the enemy's board to fire upon and reveal whether or not the tile is occupied. If a hit is scored, the tile will be shaded in orange. If it is a miss the tile will disappear completely.
+The first attack goes to player 1. Choose a tile on the enemy's board to fire upon and reveal whether or not the tile is occupied. If a hit is scored, the tile will be shaded in orange. if not, it becomes transparent and is removed from the board.
 
 ## License
 Fleet Attack is released without restriction on use under the terms of the MIT License. © Brandon Sterling 2023
