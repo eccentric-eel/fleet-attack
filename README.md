@@ -14,6 +14,7 @@ Once a ship has been placed in a valid location on the game board, it's position
  
 #### Attack Phase
 The first attack goes to player 1. Choose a tile on the enemy's board to fire upon and reveal whether or not the tile is occupied. If a hit is scored, the tile will be shaded in orange. if not, it becomes transparent and is removed from the board.
+After firing on a tile the game progresses and the computer has a turn to do the same. This process continues until all ships in the player or computer's fleet have been completely destroyed. 
 
 ## License
 Fleet Attack is released without restriction on use under the terms of the MIT License. © Brandon Sterling 2023
